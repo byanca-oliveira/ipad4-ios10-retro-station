@@ -95,9 +95,9 @@ Após contornar o uso de navegadores e servidores pesados, a solução foi conce
 
 •	**Substituição do GSE Smart IPTV pelo nPlayer:** O GSE fechava ao carregar listas M3U públicas completas de 500+ canais por falta de memória RAM.
 
-•**	Arquivo M3U Leve (favoritos.m3u):** Criação de uma lista personalizada em formato de texto contendo apenas os 7 canais favoritos.
+• **Arquivo M3U Leve (favoritos.m3u):** Criação de uma lista personalizada em formato de texto contendo apenas os 7 canais favoritos.
 
-•**	Resultado:** Carregamento estável no nPlayer, sem travamentos e com troca rápida de canais.
+• **Resultado:** Carregamento estável no nPlayer, sem travamentos e com troca rápida de canais.
 
 
 📈 **Status Atual do Dispositivo**
